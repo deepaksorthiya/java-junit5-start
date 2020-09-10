@@ -7,10 +7,6 @@ public class Calculator {
 		System.out.println("sgsgsgsggsgsd");
 		System.out.println("sgsgsgsggsgsd");
 		System.out.println("sgsgsgsggsgsd");
-		System.out.println("sgsgsgsggsgsd1");
-		System.out.println("sgsgsgsggsgsd1");
-		System.out.println("sgsgsgsggsgsd1");
-		System.out.println("sgsgsgsggsgsd1");
 		return a + b;
 	}
 
