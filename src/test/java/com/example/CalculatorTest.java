@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 class CalculatorTest {
 
-	public static Calculator calc = new Calculator();
+	public static Calc calc = new Calculator();
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
