@@ -10,6 +10,9 @@ public class Calculator implements Calc {
 		Properties properties = new Properties();
 		try {
 			properties.load(getClass().getResourceAsStream("/config/env.properties"));
+			//ffsdfsdfsd
+			//sfdsfdsfdsf
+			//sfsdfsdfdsfsd
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
