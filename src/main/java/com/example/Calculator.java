@@ -15,6 +15,7 @@ public class Calculator implements Calc {
 			e.printStackTrace();
 		}
 		a++;
+		System.out.println("hhhhh");
 		b++;
 		return a + b;
 	}
