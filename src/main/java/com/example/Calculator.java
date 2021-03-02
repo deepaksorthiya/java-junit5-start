@@ -10,15 +10,12 @@ public class Calculator implements Calc {
 		Properties properties = new Properties();
 		try {
 			properties.load(getClass().getResourceAsStream("/config/env.properties"));
-			//ffsdfsdfsd
-			//sfdsfdsfdsf
-			//sfsdfsdfdsfsd
+			System.out.println(properties);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 		a++;
 		b++;
-		System.out.println("gdhgdhgfdh");
 		return a + b;
 	}
 
